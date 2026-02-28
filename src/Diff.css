@@ -1,0 +1,66 @@
+/*body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: url('./mouni.jpg');
+  background-size:cover;
+}
+
+.table {
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.title {
+  color: white;
+  font-size: 48px;
+  margin-bottom: 40px;
+  font-weight: bold;
+}
+
+.table-name {
+  width: 80%;
+  margin: auto;
+  border-collapse: collapse;
+  background-color: #0e0e0f;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.table-name th {
+  background-color: #1a1a1d;
+  color: brown;
+  padding: 15px;
+  font-size: 18px;
+  border:1px solid white;
+  border-radius: 10px;
+  
+}
+
+.table-name td {
+  padding: 15px;
+  color: white;
+  background-color: #151517;
+  border:1px solid white;
+  border-radius: 10px;
+}
+
+.table-name tr:nth-child(even) td {
+  background-color: #17171a;
+  border:1px solid white;
+  border-radius: 10px;
+  
+}
+
+.table-name td:first-child {
+  font-weight: bold;
+  border:1px solid white;
+  border-radius: 10px;
+  
+}
+.table-name tr:hover td {
+  background-color: #6e6e82;
+  transition: 0.3s;
+  border:1px solid white;
+  border-radius: 10px;
+  
+}*/

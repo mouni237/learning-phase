@@ -1,14 +1,16 @@
 import logo from './logo.svg';
-import './App.css';
- import './Counter.css';
- import Dynamic from'./Dynamic'
+// import './App.css';
+//  import './Counter.css';
+//  import Dynamic from'./Dynamic'
+//  import Diff from './Diff'
+//  import './Diff.css'
 // //import Login from './Login'
 // //import New from'./New'
- import Counter from './Counter'
+ //import Counter from './Counter'
 // import Web from './Web'
 // import './Web.css'
-// import Props from './Props'
-// import './Props.css'
+ import Props from './Props'
+ import './Props.css'
 
   function App(){
     const obj={
@@ -22,8 +24,8 @@ import './App.css';
     <center>
      <div>
       
-       <Dynamic/>
-        
+      <Props test={arr}/>
+      
       </div>
 </center>
    )

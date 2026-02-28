@@ -24,17 +24,17 @@ import React from 'react'
 //     )
 // }
 // export default Props
-// const Props=({test:arr})=>{
-//     console.log(arr);
-//     return(
-//         <>
-//          <h1>PROPS</h1>
+//  const Props=({test:arr})=>{
+//      console.log(arr);
+//      return(
+//          <>
+//           <h1>PROPS</h1>
       
       
      
-//         </>
+//          </>
 //     )
-// }
+//  }
 
 const Props=({test:arrobj})=>{
     console.log(arrobj);
