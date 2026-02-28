@@ -23,7 +23,7 @@ import logo from './logo.svg';
    return (
     <center>
      <div>
-      
+      console.log("hi");
       <Props test={arr}/>
       
       </div>
